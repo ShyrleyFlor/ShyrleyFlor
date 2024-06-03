@@ -1,6 +1,6 @@
 <h1> < HOLA /> </h1>
 
-<h3 align="center">Mi nombre es Shyrley. Gracias por vsitar mi perfil! <br></h3>
+<h3 align="center">Mi nombre es Shyrley. Gracias por vsitar mi perfil! ❤️ <br></h3>
 
 <p align="center">
   
