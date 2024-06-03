@@ -4,7 +4,7 @@
 
 <p align="center">
   
-  <img align="left" width=150px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+  <img align="left" width=130px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
   ✔ Soy una Desarrolladora Junior<br>
   ✔ Estoy aprendiendo Python orientado a IA y Ciencia de datos<br>
   ✔ También estoy aprendiendo sobre desarrollo web y movil <br>
