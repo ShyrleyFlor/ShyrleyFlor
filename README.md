@@ -35,12 +35,15 @@
   
 </div>
 
-<h2>📱Contacto</h2>
-<a href="www.linkedin.com/in/shyrley-flor-628262255">
-  <img align="left" alt="python" width="60px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
-</a>
-<a href="shyrbe.20@gmail.com">
-  <img align="left" alt="python" width="60px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"/>
-</a>
+<div>
+    <h2>📱Contacto</h2>
+    <a href="www.linkedin.com/in/shyrley-flor-628262255">
+      <img align="left" alt="python" width="60px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
+    </a>
+    <a href="shyrbe.20@gmail.com">
+      <img align="left" alt="python" width="60px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"/>
+    </a>
+</div>
+
 
 
