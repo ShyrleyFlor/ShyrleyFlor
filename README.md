@@ -1,6 +1,6 @@
 <h1> < HOLA /> </h1>
 
-<h3 align="center">Mi nombre es Shyrley. Gracias por vsitar mi perfil!😉 <br></h3>
+<h3 align="center">Mi nombre es Shyrley. Gracias por vsitar mi perfil! <br></h3>
 
 <p align="center">
   
@@ -21,6 +21,7 @@
     <img align="left" alt="php" width="60px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"/>
     <img align="left" alt="javascript" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
     <img align="left" alt="flutter" width="60px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/>
+    <img align="left" alt="react" width="60px" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg"/>
     <img align="left" alt="react" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
     <img align="left" alt="node" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
     <img align="left" alt="tensorflow" width="60px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/>
