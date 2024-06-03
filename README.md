@@ -30,6 +30,8 @@
     <img align="left" alt="firebase" width="60px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
     <img align="left" alt="postman" width="60px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
     <img align="left" alt="xampp" width="60px" src="https://seeklogo.com/images/X/xampp-logo-1C1A9E3689-seeklogo.com.png"/>
+    <img align="left" alt="notion" width="60px" src="https://seeklogo.com/images/N/notion-icon-logo-D1D5998962-seeklogo.com.png"/>
+    <img align="left" alt="asana" width="60px" src="https://seeklogo.com/images/A/asana-logo-B759BB50CD-seeklogo.com.png"/>
   </p>
  
   
