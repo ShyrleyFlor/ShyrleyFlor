@@ -11,3 +11,8 @@
   ✔ Estoy estudiando Ingeniería de Sistemas<br>
   ✔ Manejo bases de datos SQL Y NoSQL<br>
 </p>
+
+<div>
+  <h2>Skills</h2>
+  
+</div>
