@@ -26,7 +26,6 @@
     <img align="left" alt="tensorflow" width="60px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/> 
     <img align="left" alt="numpy" width="60px" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png"/> 
     <img align="left" alt="mysql" width="60px" src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png"/> 
-    <img align="left" alt="mongodb" width="40px" src="https://seeklogo.com/images/M/mongodb-logo-655F7D542D-seeklogo.com.png"/> 
     <img align="left" alt="firebase" width="60px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/> 
     <img align="left" alt="postman" width="60px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/> 
     <img align="left" alt="xampp" width="60px" src="https://seeklogo.com/images/X/xampp-logo-1C1A9E3689-seeklogo.com.png"/> 
