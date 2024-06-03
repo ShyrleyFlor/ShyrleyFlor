@@ -23,6 +23,7 @@
     <img align="left" alt="flutter" width="60px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/>
     <img align="left" alt="react" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
     <img align="left" alt="node" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
+    <img align="left" alt="tensorflow" width="60px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/>
     <img align="left" alt="mysql" width="60px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"/>
     <img align="left" alt="mongodb" width="60px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"/>
     <img align="left" alt="firebase" width="60px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
