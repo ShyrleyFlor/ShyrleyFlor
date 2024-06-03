@@ -17,6 +17,7 @@
 <div>
   <h2> 🌟 Skills</h2>
   
-  
+  <p align="center">
+  <img width="500px"  src="https://skillicons.dev/iconsi=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
   
 </div>
