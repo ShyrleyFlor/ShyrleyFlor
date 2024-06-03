@@ -17,8 +17,8 @@
 <div>
   <h2> 🌟 Skills</h2>
   <p align="center">
-    <img align="left" alt="react" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
-    <img align="left" alt="node" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
+    <img align="left" alt="react" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
+    <img align="left" alt="node" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
   </p>
  
   
