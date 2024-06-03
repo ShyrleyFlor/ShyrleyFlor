@@ -15,9 +15,8 @@
 <br>
 
 <div>
-  <h2> 💻 Skills</h2>
-  <a href="https://www.mysql.com/"><img alt="MYSQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"></a>
-  <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=plastic&logo=android-studio&logoColor=white"></a>
+  <h2> 🌟 Skills</h2>
+  
   
   
 </div>
