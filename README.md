@@ -17,7 +17,8 @@
 <div>
   <h2> 🌟 Skills</h2>
   <p align="center">
-    <img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
+    <img align="left" alt="Python" width="24px" src="![image](https://github.com/ShyrleyFlor/ShyrleyFlor/assets/88064712/1ed63659-a59e-4f36-b917-90f45708b0eb)
+ />
   </p>
  
   
