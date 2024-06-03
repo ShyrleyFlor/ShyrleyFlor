@@ -12,6 +12,8 @@
   ✔ Manejo bases de datos SQL Y NoSQL<br>
 </p>
 
+<br>
+
 <div>
   <h2> ⚡ Skills</h2>
   
