@@ -17,6 +17,9 @@
 <div>
   <h2> 🌟 Skills</h2>
   <p align="center">
+    <img align="left" alt="python" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+    <img align="left" alt="php" width="60px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"/>
+    <img align="left" alt="javascript" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
     <img align="left" alt="react" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
     <img align="left" alt="node" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
   </p>
