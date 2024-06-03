@@ -17,8 +17,8 @@
 <div>
   <h2> 🌟 Skills</h2>
   <p align="center">
-    <img align="left" alt="Python" width="24px" src="![image](https://github.com/ShyrleyFlor/ShyrleyFlor/assets/88064712/1ed63659-a59e-4f36-b917-90f45708b0eb)
- />
+    <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
+    <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.sv"/>
   </p>
  
   
