@@ -35,6 +35,8 @@
   
 </div>
 
+<br>
+
 <div>
     <h2>📱Contacto</h2>
     <a href="www.linkedin.com/in/shyrley-flor-628262255">
