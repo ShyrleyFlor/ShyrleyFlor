@@ -10,7 +10,5 @@
   ✔ También estoy aprendiendo ReactJS y NodeJS, <br>
     aplicando estos conocimientos en proyectos de desarrollo de software<br>
   ✔ Estoy estudiando Ingeniería de Sistemas<br>
-  ✔ Tengo conocimientos en frameworks y herramientas como<br>
-    Node.js, Express, RestApi, Wordpress, Prisma, Sequelize, Next.js, Vite.js<br>
-  ✔ Manejo bases de datos como Oracle, MySQL, PostgreSQL, MongoDB<br>
+  ✔ Manejo bases de datos SQL Y NoSQL<br>
 </p>
