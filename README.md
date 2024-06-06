@@ -34,7 +34,7 @@
     <img align="left" alt="asana" width="60px" src="https://seeklogo.com/images/A/asana-logo-B759BB50CD-seeklogo.com.png"/> 
   
 </div>
-
+<br><br>
 <div>
   <h3>Contactos</h3>
   <a href="www.linkedin.com/in/shyrley-flor-628262255">
