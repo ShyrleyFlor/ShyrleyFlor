@@ -35,14 +35,14 @@
   
 </div>
 
-<br>
 
-<div  style="flex-direction:column;">
+
+<section  style="flex-direction:column;">
   <h3>Contactos</h3>
   <a href="www.linkedin.com/in/shyrley-flor-628262255">
      <img align="left" alt="asana" width="60px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
   </a>
-</div>
+</section>
 
 
 
