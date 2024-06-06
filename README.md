@@ -14,7 +14,7 @@
 
 <br>
 
-<div>
+<div style="flex-direction:column; justify-content: center; align-items: center;">
   <h2> 🌟 Skills</h2>
     <img align="left" alt="python" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> 
     <img align="left" alt="php" width="60px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"/> 
@@ -34,7 +34,7 @@
     <img align="left" alt="asana" width="60px" src="https://seeklogo.com/images/A/asana-logo-B759BB50CD-seeklogo.com.png"/> 
   
 </div>
-<br><br>
+
 <div>
   <h3>Contactos</h3>
   <a href="www.linkedin.com/in/shyrley-flor-628262255">
