@@ -40,10 +40,12 @@
       <img align="left" alt="PostgreSQL" width="60px" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png"/>
   </div>
   <!-- Herramientas -->
-      <img alt="Power BI" width="60px" src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png"/>
-      <img alt="Firebase" width="60px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
-      <img alt="Postman" width="60px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
-      <img alt="XAMPP" width="60px" src="https://seeklogo.com/images/X/xampp-logo-1C1A9E3689-seeklogo.com.png"/>
-      <img alt="Notion" width="60px" src="https://seeklogo.com/images/N/notion-icon-logo-D1D5998962-seeklogo.com.png"/>
-      <img alt="Asana" width="60px" src="https://seeklogo.com/images/A/asana-logo-B759BB50CD-seeklogo.com.png"/>
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
+      <img align="left" alt="Power BI" width="60px" src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png"/>
+      <img align="left" alt="Firebase" width="60px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
+      <img align="left" alt="Postman" width="60px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
+      <img align="left" alt="XAMPP" width="60px" src="https://seeklogo.com/images/X/xampp-logo-1C1A9E3689-seeklogo.com.png"/>
+      <img align="left" alt="Notion" width="60px" src="https://seeklogo.com/images/N/notion-icon-logo-D1D5998962-seeklogo.com.png"/>
+      <img align="left" alt="Asana" width="60px" src="https://seeklogo.com/images/A/asana-logo-B759BB50CD-seeklogo.com.png"/>
+  </div>
 </div>
