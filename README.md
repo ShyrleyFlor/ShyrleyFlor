@@ -16,7 +16,6 @@
 
 <div style="display: flex; flex-direction: column;">
   <h2> 🌟 Skills</h2>
-  <div style="display: flex; flex-wrap: wrap;">
     <img align="left" alt="python" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> 
     <img align="left" alt="php" width="60px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"/> 
     <img align="left" alt="javascript" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/> 
@@ -39,7 +38,5 @@
     <img align="left" alt="postman" width="60px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/> 
     <img align="left" alt="xampp" width="60px" src="https://seeklogo.com/images/X/xampp-logo-1C1A9E3689-seeklogo.com.png"/> 
     <img align="left" alt="notion" width="60px" src="https://seeklogo.com/images/N/notion-icon-logo-D1D5998962-seeklogo.com.png"/> 
-    <img align="left" alt="asana" width="60px" src="https://seeklogo.com/images/A/asana-logo-B759BB50CD-seeklogo.com.png"/> 
-  </div>
-      
+    <img align="left" alt="asana" width="60px" src="https://seeklogo.com/images/A/asana-logo-B759BB50CD-seeklogo.com.png"/>       
 </div>
