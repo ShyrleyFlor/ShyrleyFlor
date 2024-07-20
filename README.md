@@ -16,6 +16,17 @@
 
 <div style="display: flex; flex-direction: column;">
   <h2>🌟 Skills</h2>
+   <!-- Lenguajes -->
+  <div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
+    <h3>Lenguajes</h3>
+    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+      <img alt="Python" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+      <img alt="PHP" width="60px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"/>
+      <img alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+      <img alt="Java" width="60px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
+      <img alt="C" width="60px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>
+    </div>
+  </div>
   <!-- Lenguajes -->
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
       <img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
