@@ -32,6 +32,7 @@
     <img align="left" alt="mongodb" width="30px" src="https://seeklogo.com/images/M/mongodb-logo-655F7D542D-seeklogo.com.png"/> 
     <img align="left" alt="mysql" width="60px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/>
     <img align="left" alt="postgreSQL" width="60px" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png"/>
+    <img align="left" alt="power BI" width="60px" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg"/> 
     <img align="left" alt="firebase" width="60px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/> 
     <img align="left" alt="postman" width="60px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/> 
     <img align="left" alt="xampp" width="60px" src="https://seeklogo.com/images/X/xampp-logo-1C1A9E3689-seeklogo.com.png"/> 
