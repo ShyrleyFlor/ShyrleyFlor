@@ -20,7 +20,8 @@
     <img align="left" alt="php" width="60px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"/> 
     <img align="left" alt="javascript" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/> 
     <img align="left" alt="java" width="60px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/> 
-    <img align="left" alt="flutter" width="60px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/> 
+    <img align="left" alt="flutter" width="60px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/>
+    <img align="left" alt="react native" width="60px" src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000"/> 
     <img align="left" alt="wordpress" width="60px" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg"/> 
     <img align="left" alt="react" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/> 
     <img align="left" alt="node" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/> 
