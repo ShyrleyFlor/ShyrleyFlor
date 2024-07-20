@@ -25,12 +25,14 @@
       <img align="left" alt="C" width="60px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>
   </div>
   <!-- Frameworks -->
-      <img alt="Flutter" width="60px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/>
-      <img alt="React Native" width="60px" src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png"/>
-      <img alt="React" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
-      <img alt="Node.js" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
-      <img alt="TensorFlow" width="60px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/>
-      <img alt="Keras" width="60px" src="https://seeklogo.com/images/K/keras-logo-6B06C2FC2D-seeklogo.com.png"/>
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
+      <img align="left" alt="Flutter" width="60px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/>
+      <img align="left" alt="React Native" width="60px" src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png"/>
+      <img align="left" alt="React" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
+      <img align="left" alt="Node.js" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
+      <img align="left" alt="TensorFlow" width="60px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/>
+      <img align="left" alt="Keras" width="60px" src="https://seeklogo.com/images/K/keras-logo-6B06C2FC2D-seeklogo.com.png"/>
+  </div>
   <!-- Bases de datos -->
       <img alt="MongoDB" width="60px" src="https://seeklogo.com/images/M/mongodb-logo-655F7D542D-seeklogo.com.png"/>
       <img alt="MySQL" width="60px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/>
