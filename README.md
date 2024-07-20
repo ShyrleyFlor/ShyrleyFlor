@@ -17,8 +17,8 @@
 <div style="display: flex; flex-direction: column;">
   <h2>🌟 Skills</h2>
   <!-- Lenguajes -->
+  <h3><!- Lenguajes -></h3>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px; flex-direction: row;">
-      <h3><!- Lenguajes -></h3>
       <img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
       <img align="left" alt="PHP" width="60px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"/>
       <img align="left" alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
