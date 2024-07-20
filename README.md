@@ -34,9 +34,11 @@
       <img align="left" alt="Keras" width="60px" src="https://seeklogo.com/images/K/keras-logo-6B06C2FC2D-seeklogo.com.png"/>
   </div>
   <!-- Bases de datos -->
-      <img alt="MongoDB" width="60px" src="https://seeklogo.com/images/M/mongodb-logo-655F7D542D-seeklogo.com.png"/>
-      <img alt="MySQL" width="60px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/>
-      <img alt="PostgreSQL" width="60px" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png"/>
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
+      <img align="left" alt="MongoDB" width="60px" src="https://seeklogo.com/images/M/mongodb-logo-655F7D542D-seeklogo.com.png"/>
+      <img align="left" alt="MySQL" width="60px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/>
+      <img align="left" alt="PostgreSQL" width="60px" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png"/>
+  </div>
   <!-- Herramientas -->
       <img alt="Power BI" width="60px" src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png"/>
       <img alt="Firebase" width="60px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
