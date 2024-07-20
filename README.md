@@ -17,7 +17,7 @@
 <div style="display: flex; flex-direction: column;">
   <h2>🌟 Skills</h2>
   <!-- Lenguajes -->
-  <div display: flex; flex-direction: column; gap: 20px;">
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
       <img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
       <img align="left" alt="PHP" width="60px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"/>
       <img align="left" alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
@@ -25,7 +25,7 @@
       <img align="left" alt="C" width="60px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>
   </div>
   <!-- Frameworks -->
-  <div display: flex; flex-direction: column; gap: 20px;">
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
       <img align="left" alt="Flutter" width="60px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/>
       <img align="left" alt="React Native" width="60px" src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png"/>
       <img align="left" alt="React" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
@@ -34,7 +34,7 @@
       <img align="left" alt="Keras" width="60px" src="https://seeklogo.com/images/K/keras-logo-6B06C2FC2D-seeklogo.com.png"/>
   </div>
   <!-- Bases de datos -->
-  <div display: flex; flex-direction: column; gap: 20px;">
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
       <img align="left" alt="MongoDB" width="40px" src="https://seeklogo.com/images/M/mongodb-logo-655F7D542D-seeklogo.com.png"/>
       <img align="left" alt="MySQL" width="60px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/>
       <img align="left" alt="PostgreSQL" width="60px" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png"/>
