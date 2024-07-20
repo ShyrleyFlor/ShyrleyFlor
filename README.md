@@ -23,7 +23,7 @@
       <img alt="Python" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
       <p>Python</p>
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: center;flex-direction: row">
       <img alt="PHP" width="60px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"/>
       <p>PHP</p>
     </div>
