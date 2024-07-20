@@ -17,7 +17,7 @@
 <div style="display: grid; grid-template-columns: 1fr;">
   <h2>🌟 Skills</h2>
   <!-- Lenguajes -->
-  <h3><!- Lenguajes -></h3>
+  <p><!- Lenguajes -></p>
   <div style="display: grid; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px; grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));">
       <img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
       <img align="left" alt="PHP" width="60px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"/>
