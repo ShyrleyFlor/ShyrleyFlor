@@ -36,13 +36,13 @@
       <img align="left" alt="Keras" width="60px" src="https://seeklogo.com/images/K/keras-logo-6B06C2FC2D-seeklogo.com.png"/>
   </div>
   <!-- Bases de datos -->
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
+  <div style="display: grid; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px; grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));">
       <img align="left" alt="MongoDB" width="40px" src="https://seeklogo.com/images/M/mongodb-logo-655F7D542D-seeklogo.com.png"/>
       <img align="left" alt="MySQL" width="60px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/>
       <img align="left" alt="PostgreSQL" width="60px" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png"/>
   </div>
   <!-- Herramientas -->
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
+  <div style="display: grid; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px; grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));">
       <img align="left" alt="Power BI" width="60px" src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png"/>
       <img align="left" alt="Firebase" width="70px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
       <img align="left" alt="Postman" width="60px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
