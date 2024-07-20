@@ -18,12 +18,12 @@
   <h2>🌟 Skills</h2>
   
   <!-- Lenguajes -->
-  <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
     <div style="text-align: center;">
       <img alt="Python" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
       <p>Python</p>
     </div>
-    <div style="text-align: center;flex-direction: row">
+    <div style="text-align: center;">
       <img alt="PHP" width="60px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"/>
       <p>PHP</p>
     </div>
@@ -42,7 +42,7 @@
   </div>
 
   <!-- Frameworks -->
-  <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
     <div style="text-align: center;">
       <img alt="Flutter" width="60px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/>
       <p>Flutter</p>
@@ -70,7 +70,7 @@
   </div>
 
   <!-- Bases de datos -->
-  <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
     <div style="text-align: center;">
       <img alt="MongoDB" width="60px" src="https://seeklogo.com/images/M/mongodb-logo-655F7D542D-seeklogo.com.png"/>
       <p>MongoDB</p>
@@ -86,7 +86,7 @@
   </div>
 
   <!-- Herramientas -->
-  <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
     <div style="text-align: center;">
       <img alt="Power BI" width="60px" src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png"/>
       <p>Power BI</p>
