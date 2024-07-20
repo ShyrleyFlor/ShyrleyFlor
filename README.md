@@ -18,17 +18,11 @@
   <h2>🌟 Skills</h2>
   <!-- Lenguajes -->
       <img alt="Python" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-      <p>Python</p>
       <img alt="PHP" width="60px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"/>
-      <p>PHP</p>
       <img alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-      <p>JavaScript</p>
       <img alt="Java" width="60px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
-      <p>Java</p>
       <img alt="C" width="60px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>
-      <p>C</p>
-
-  <!-- Frameworks -->
+     <!-- Frameworks -->
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
     <div style="text-align: center;">
       <img alt="Flutter" width="60px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/>
