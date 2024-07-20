@@ -27,7 +27,7 @@
   </div>
   <!-- Frameworks -->
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px; flex-direction: column;">
-      <p><!-- Lenguajes --></p>
+      <p><!-  Frameworks -></p>
       <img align="left" alt="Flutter" width="60px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/>
       <img align="left" alt="React Native" width="60px" src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png"/>
       <img align="left" alt="React" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
