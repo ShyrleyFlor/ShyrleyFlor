@@ -14,7 +14,6 @@
 
 <br>
 
-<div style="display: grid; grid-template-columns: 1fr;">
   <h2>🌟 Skills</h2>
   <!-- Lenguajes -->
   <div style="display: grid; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px; grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));">
@@ -48,4 +47,4 @@
       <img align="left" alt="Notion" width="60px" src="https://seeklogo.com/images/N/notion-icon-logo-D1D5998962-seeklogo.com.png"/>
       <img align="left" alt="Asana" width="60px" src="https://seeklogo.com/images/A/asana-logo-B759BB50CD-seeklogo.com.png"/>
   </div>
-</div>
+
