@@ -14,7 +14,7 @@
 
 <br>
 
-<div style="display: flex; flex-direction: column; align-items: center;">
+<div>
   <h2>🌟 Skills</h2>
   
   <!-- Lenguajes -->
