@@ -20,6 +20,7 @@
     <img align="left" alt="php" width="60px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"/> 
     <img align="left" alt="javascript" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/> 
     <img align="left" alt="java" width="60px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/> 
+    <img align="left" alt="C" width="60px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>
     <img align="left" alt="flutter" width="60px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/>
     <img align="left" alt="react native" width="60px" src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png"/> 
     <img align="left" alt="wordpress" width="60px" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg"/> 
