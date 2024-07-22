@@ -20,7 +20,7 @@
   <!-- Lenguajes -->
   <div>
     <h3>Lenguajes</h3>
-    <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 40px;">
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px;">
       <img alt="Python" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
       <img alt="PHP" width="60px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"/>
       <img alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
