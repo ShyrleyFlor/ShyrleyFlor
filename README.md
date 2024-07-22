@@ -16,36 +16,53 @@
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
   <h2>🌟 Skills</h2>
+  
   <!-- Lenguajes -->
-  <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
-    <img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-    <img align="left" alt="PHP" width="60px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"/>
-    <img align="left" alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-    <img align="left" alt="Java" width="60px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
-    <img align="left" alt="C" width="60px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>
+  <div>
+    <h3>Lenguajes</h3>
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+      <img alt="Python" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+      <img alt="PHP" width="60px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"/>
+      <img alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+      <img alt="Java" width="60px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
+      <img alt="C" width="60px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>
+    </div>
   </div>
+
   <!-- Frameworks -->
-  <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
-    <img align="left" alt="Flutter" width="60px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/>
-    <img align="left" alt="React Native" width="60px" src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png"/>
-    <img align="left" alt="React" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
-    <img align="left" alt="Node.js" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
-    <img align="left" alt="TensorFlow" width="60px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/>
+  <div>
+    <h3>Frameworks</h3>
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+      <img alt="Flutter" width="60px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/>
+      <img alt="React Native" width="60px" src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png"/>
+      <img alt="React" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
+      <img alt="Node.js" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
+      <img alt="TensorFlow" width="60px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/>
+    </div>
   </div>
+
   <!-- Bases de datos -->
-  <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
-    <img align="left" alt="MongoDB" width="40px" src="https://seeklogo.com/images/M/mongodb-logo-655F7D542D-seeklogo.com.png"/>
-    <img align="left" alt="MySQL" width="60px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/>
-    <img align="left" alt="PostgreSQL" width="60px" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png"/>
+  <div>
+    <h3>Bases de datos</h3>
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+      <img alt="MongoDB" width="60px" src="https://seeklogo.com/images/M/mongodb-logo-655F7D542D-seeklogo.com.png"/>
+      <img alt="MySQL" width="60px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/>
+      <img alt="PostgreSQL" width="60px" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png"/>
+    </div>
   </div>
+
   <!-- Herramientas -->
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <img align="left" alt="Power BI" width="60px" src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png"/>
-    <img align="left" alt="Firebase" width="60px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
-    <img align="left" alt="Postman" width="60px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
-    <img align="left" alt="XAMPP" width="60px" src="https://seeklogo.com/images/X/xampp-logo-1C1A9E3689-seeklogo.com.png"/>
-    <img align="left" alt="Notion" width="60px" src="https://seeklogo.com/images/N/notion-icon-logo-D1D5998962-seeklogo.com.png"/>
-    <img align="left" alt="Asana" width="60px" src="https://seeklogo.com/images/A/asana-logo-B759BB50CD-seeklogo.com.png"/>
+  <div>
+    <h3>Herramientas</h3>
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+      <img alt="Power BI" width="60px" src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png"/>
+      <img alt="Firebase" width="60px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
+      <img alt="Postman" width="60px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
+      <img alt="XAMPP" width="60px" src="https://seeklogo.com/images/X/xampp-logo-1C1A9E3689-seeklogo.com.png"/>
+      <img alt="Notion" width="60px" src="https://seeklogo.com/images/N/notion-icon-logo-D1D5998962-seeklogo.com.png"/>
+      <img alt="Asana" width="60px" src="https://seeklogo.com/images/A/asana-logo-B759BB50CD-seeklogo.com.png"/>
+    </div>
   </div>
 </div>
+
 
