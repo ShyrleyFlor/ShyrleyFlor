@@ -16,7 +16,8 @@
 
 <div style="display: flex;">
   <h2>🌟 Skills</h2>
-  <!-- Lenguajes -->
+  <p>
+    <!-- Lenguajes -->
       <img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
       <img align="left" alt="PHP" width="60px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"/>
       <img align="left" alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
@@ -39,4 +40,5 @@
       <img align="left" alt="XAMPP" width="60px" src="https://seeklogo.com/images/X/xampp-logo-1C1A9E3689-seeklogo.com.png"/>
       <img align="left" alt="Notion" width="60px" src="https://seeklogo.com/images/N/notion-icon-logo-D1D5998962-seeklogo.com.png"/>
       <img align="left" alt="Asana" width="60px" src="https://seeklogo.com/images/A/asana-logo-B759BB50CD-seeklogo.com.png"/>
+  </p>
 </div>
