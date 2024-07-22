@@ -14,6 +14,7 @@
 
 <br>
 
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
   <h2>🌟 Skills</h2>
   <!-- Lenguajes -->
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
@@ -48,4 +49,4 @@
       <img align="left" alt="Notion" width="60px" src="https://seeklogo.com/images/N/notion-icon-logo-D1D5998962-seeklogo.com.png"/>
       <img align="left" alt="Asana" width="60px" src="https://seeklogo.com/images/A/asana-logo-B759BB50CD-seeklogo.com.png"/>
   </div>
-
+</div>
