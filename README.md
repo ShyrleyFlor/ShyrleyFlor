@@ -1,6 +1,6 @@
 <h1> < HOLA /> </h1>
 
-<h3 align="center">Mi nombre es Shyrley. Gracias por vsitar mi perfil! ❤️ <br></h3>
+<h3 align="center">Mi nombre es Shyrley. Gracias por visitar mi perfil! ❤️ <br></h3>
 
 <p align="center">
   
@@ -24,7 +24,8 @@
       <img alt="Python" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
       <img alt="PHP" width="60px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"/>
       <img alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-      <img alt="Java" width="60px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
+      <
+img alt="Java" width="60px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
       <img alt="C" width="60px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>
     </div>
   </div>
