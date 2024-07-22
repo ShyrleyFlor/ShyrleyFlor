@@ -20,7 +20,7 @@
   <!-- Lenguajes -->
   <div>
     <h3>Lenguajes</h3>
-    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px;">
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 60px;">
       <img alt="Python" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
       <img alt="PHP" width="60px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"/>
       <img alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
@@ -32,7 +32,7 @@
   <!-- Frameworks -->
   <div>
     <h3>Frameworks</h3>
-    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px;">
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 60px;">
       <img alt="Flutter" width="60px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/>
       <img alt="React Native" width="60px" src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png"/>
       <img alt="React" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
@@ -44,7 +44,7 @@
   <!-- Bases de datos -->
   <div>
     <h3>Bases de datos</h3>
-    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px;">
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 60px;">
       <img alt="MongoDB" width="40px" src="https://seeklogo.com/images/M/mongodb-logo-655F7D542D-seeklogo.com.png"/>
       <img alt="MySQL" width="60px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/>
       <img alt="PostgreSQL" width="60px" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png"/>
@@ -54,7 +54,7 @@
   <!-- Herramientas -->
   <div>
     <h3>Herramientas</h3>
-    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 60px;">
       <img alt="Power BI" width="60px" src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png"/>
       <img alt="Firebase" width="60px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
       <img alt="Postman" width="60px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
