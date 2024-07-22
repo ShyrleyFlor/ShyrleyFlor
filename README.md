@@ -14,7 +14,7 @@
 
 <br>
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
+<div style="display: flex;">
   <h2>🌟 Skills</h2>
   <!-- Lenguajes -->
       <img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
