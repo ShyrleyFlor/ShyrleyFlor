@@ -8,7 +8,7 @@
   ✔ Soy una Desarrolladora Junior<br>
   ✔ Estoy aprendiendo Python orientado a IA y Ciencia de datos<br>
   ✔ También estoy aprendiendo sobre desarrollo web y movil <br>
-  ✔ Estudió Ingeniería de Sistemas<br>
+  ✔ Egresada de la carrera Ingeniería de Sistemas<br>
   ✔ Manejo bases de datos SQL Y NoSQL<br>
 </p>
 
